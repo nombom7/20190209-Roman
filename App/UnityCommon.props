@@ -1,9 +1,0 @@
-﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
-    <PropertyGroup>
-        <UnityWSASolutionName>Romantech</UnityWSASolutionName>
-        <UnityWSASolutionDir>C:\Users\nomuk\OneDrive\ドキュメント\20190209-Roman\App\</UnityWSASolutionDir>
-        <UnityProjectDir>C:\Users\nomuk\OneDrive\ドキュメント\20190209-Roman\</UnityProjectDir>
-        <UnityWSAPlayerDir>C:\Program Files\Unity\Hub\Editor\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
-        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
-    </PropertyGroup>
-</Project>
